@@ -1,0 +1,33 @@
+[
+    {
+        "id" : 1, 
+        "image" : "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/10/31/b3fd31f6-b5c1-41e3-93e6-f11300013215.jpg",
+        "description" : "GITAR"
+    },
+    {
+        "id" : 2, 
+        "image" : "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/2/25/29589077-38ee-4dc8-a377-f872902c9e6d.jpg",
+        "description" : "DRUM"
+    },
+    {
+        "id" : 3, 
+        "image" : "https://images.tokopedia.net/img/cache/900/product-1/2019/1/3/2325586/2325586_aa3d35c4-2d31-4a1b-ba18-40a8dd5bc0c5_735_735.jpg",
+        "description" : "Bass"
+    },
+    {
+        "id" : 4, 
+        "image" : "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/14/70904b34-255c-4f98-917c-d0efe2340e9e.jpg",
+        "description" : "Keyboard"
+    }, 
+    {
+        "id" : 5, 
+        "image" : "https://images.tokopedia.net/img/cache/900/product-1/2020/8/24/8814654/8814654_0b1bcaad-4dd7-4e52-aed9-5485749e2356_700_700.jpg",
+        "description" : "Audio"
+    }, 
+    {
+        "id" : 6, 
+        "image" : "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/5/9/9a2d88cc-a508-488d-a6d9-c3bd4d250113.jpg",
+        "description" : "Aksesoris"
+    }
+]
+

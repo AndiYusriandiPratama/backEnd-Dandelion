@@ -1,0 +1,139 @@
+[
+    {
+        "id" : 1, 
+        "brand" : "Gitar Listrik Ibanez Jem Hitam", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 1850000,
+        "promo" : 19000, 
+        "category" : "GITAR",
+        "image" : ["https://images.tokopedia.net/img/cache/900/product-1/2019/12/28/1729342/1729342_ded293b1-a12c-4fce-96a7-4954178cbd3f_1280_1280.jpg"]
+    }, 
+    {
+        "id" : 2, 
+        "brand" : "Drum Electric aroma TDX", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 3500000,
+        "promo" : 49900, 
+        "category" : "DRUM",
+        "image" : ["https://images.tokopedia.net/img/cache/900/VqbcmM/2022/4/14/899de08c-154a-4c2b-8638-d4d4ff6ca78a.jpg"]
+    }, 
+    {
+        "id" : 3, 
+        "brand" : "Keyboard Medeli AKX", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 1999000,
+        "promo" : 50000, 
+        "category" : "Keyboard",
+        "image" : ["https://images.tokopedia.net/img/cache/900/VqbcmM/2023/2/8/eac81a29-2e86-4685-a9cb-70916a49190c.jpg"]
+    }, 
+    {
+        "id" : 4, 
+        "brand" : "HEADSET JBL", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 45000,
+        "promo" : 35900, 
+        "category" : "Audio",
+        "image" : ["https://i.postimg.cc/CMnc5vkF/jbl.jpg"]
+    }, 
+    {
+        "id" : 5, 
+        "brand" : "Eletrik Bass Yamaha", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 725000,
+        "promo" : 20000, 
+        "category" : "Bass",
+        "image" : ["https://images.tokopedia.net/img/cache/900/product-1/2019/1/3/2325586/2325586_aa3d35c4-2d31-4a1b-ba18-40a8dd5bc0c5_735_735.jpg"]
+    }, 
+    {
+        "id" : 6, 
+        "brand" : "Senar Gitar", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 100000,
+        "promo" : 9900, 
+        "category" : "Aksesoris",
+        "image" : ["https://images.tokopedia.net/img/cache/900/VqbcmM/2022/12/26/2ddbaac9-aa41-4454-b32b-ee975a5320e7.jpg"]
+    }, 
+    {
+        "id" : 7, 
+        "brand" : "Yamaha Clavinova", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 6000000,
+        "promo" : 35900, 
+        "category" : "Keyboard",
+        "image" : ["https://images.tokopedia.net/img/cache/900/VqbcmM/2021/8/21/74c1b6eb-b0f6-42af-806c-32578163bf42.jpg"]
+    }, {
+        "id" : 8, 
+        "brand" : "Yamaha Gitar Akustik CX-40", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 990000,
+        "promo" : 100000, 
+        "category" : "GITAR",
+        "image" : ["https://images.tokopedia.net/img/cache/900/product-1/2019/7/18/2325586/2325586_5b1cc7c8-5253-477b-8cbc-098262bfec9d_658_658.jpg"]
+    }, {
+        "id" : 9, 
+        "brand" : "Bass Elektrik Stingray White", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 900000,
+        "promo" : 25500, 
+        "category" : "Bass",
+        "image" : ["https://images.tokopedia.net/img/cache/900/product-1/2019/2/12/5444882/5444882_73406130-791f-4392-93f9-206a4c8bbf34_476_480"]
+    }, {
+        "id" : 10, 
+        "brand" : "Drum Mapex Tornado", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 75000,
+        "promo" : 70000, 
+        "category" : "DRUM",
+        "image" : ["https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/8/49076d83-d7be-4155-aad3-68883ce01235.jpg"]
+    }, {
+        "id" : 11, 
+        "brand" : "Focusrite Scarlett 2i2", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 200000,
+        "promo" : 175000, 
+        "category" : "Audio",
+        "image" : ["https://images.tokopedia.net/img/cache/900/product-1/2019/12/23/29087543/29087543_bad2fca4-1cd8-41ea-b883-61484faaa8b7_1823_1823"]
+    }, {
+        "id" : 12, 
+        "brand" : "Cajon Akustik Black", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 2500000,
+        "promo" : 2499999, 
+        "category" : "DRUM",
+        "image" : ["https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/21/e873d5c7-e1c0-41f7-b46f-e49ff25b619e.png"]
+    }, {
+        "id" : 13, 
+        "brand" : "Ampliier Gitar", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 999999,
+        "promo" : 2499999, 
+        "category" : "Audio",
+        "image" : ["https://images.tokopedia.net/img/cache/900/product-1/2018/4/7/5010857/5010857_a0e241e7-cafa-4d91-b484-8599bc910fa2_700_703.jpg"]
+    } ,{
+        "id" : 14, 
+        "brand" : "Calimba Akustikr", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 999999,
+        "promo" : 2499999, 
+        "category" : "Keyboard",
+        "image" : ["https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/15/1bf9d7fb-611d-495a-9e19-2101e9c231a7.jpg"]
+    } ,{
+        "id" : 15, 
+        "brand" : "Efek Gitar Preamp", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 499999,
+        "promo" : 2499999, 
+        "category" : "GITAR",
+        "image" : ["https://images.tokopedia.net/img/cache/900/VqbcmM/2023/2/3/dfeb9490-837e-4b05-8483-680e5175adb4.png"]
+    }, {
+        "id" : 16, 
+        "brand" : "Hardcase Gitar Eletrik", 
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus...", 
+        "price" : 999999,
+        "promo" : 2499999, 
+        "category" : "GITAR",
+        "image" : ["https://images.tokopedia.net/img/cache/900/VqbcmM/2022/7/11/065a0e23-4b49-4116-b075-a588a41ae072.jpg"]
+    }
+    
+    
+]
